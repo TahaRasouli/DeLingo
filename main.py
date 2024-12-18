@@ -1,5 +1,3 @@
-# vocab_app.py
-
 import streamlit as st
 from vocab_manager import GermanVocabManager
 
